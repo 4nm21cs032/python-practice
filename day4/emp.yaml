@@ -1,0 +1,6 @@
+dept: HR
+id: 101
+name: siri
+projects:
+- p1
+- p2
